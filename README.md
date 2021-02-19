@@ -2,7 +2,7 @@
 
 The following is a webpage of HoriSEOn, subjected to a variety of accessibility measures, such as:
 
-* Ran accessibility test through: https://wave.webaim.org/report#/https://f34rth3r34p3r.github.io/HoriseonAccessibility/ and determined that there was low contrast in the `<aside>` element. Changed color of `"benefits"` div to #195a7e, darkening it to increase contrast to 5.4. 
+* Ran accessibility test through: https://wave.webaim.org/report#/https://f34rth3r34p3r.github.io/HoriseonAccessibility/ and determined that there was low contrast in the `<aside>` element. Changed color of `"benefits"` div to #0072bb, darkening it to increase contrast ratio. 
 * Added accessibility links to top of page, invisible to sighted visiters but accessible to keyboard-only users and screen-readers.
 * Collaped and consolidated multiple CSS selectors into more concise terms; updated `<div>` ids accordingly.
 * Adding alt-text for all large or meaningful images.
@@ -30,6 +30,7 @@ This website is available at the following URL:   https://github.com/F34rTh3R34p
 
 # Contributor(s)
 Daniel Pisani (F34rTh3R34p3r)
+Received helpful advice from Anastasia Sorkin.
 
 # MIT License
 
