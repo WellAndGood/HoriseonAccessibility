@@ -75,6 +75,7 @@ p {
     margin-left: 20px;
 }
 
+/* Changed color to #195a7e */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -83,7 +84,7 @@ p {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    background-color: #195a7e;
 }
 
 /*Collapsed benefit-lead, benefit-brand, benefit-cost into a single selector of .benefit-plus*/
