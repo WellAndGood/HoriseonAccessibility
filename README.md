@@ -1,4 +1,4 @@
-# Horiseon - Accessibility Project
+# Horiseon - In the Pursuit of Web Accessibility
 
 The following is a webpage of HoriSEOn, subjected to a variety of accessibility measures, such as:
 
